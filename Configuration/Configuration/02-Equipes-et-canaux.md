@@ -15,11 +15,6 @@ Canaux :
 - Annonces
 ![Corporate Hub](../../Captures-d-ecran/01-equipe-corporatehub.png)
 
-![Canal Documentation](../../Captures-d-ecran/01-canal-documentation.png)
-
-![Canal Standard](../../Captures-d-ecran/02-canal-public-standard.png)
-
-![Propriétaire RH](../../Captures-d-ecran/02-propriétaire-hr.png)
 
 ---
 
