@@ -14,6 +14,7 @@ Canaux :
 - Documentation
 - Annonces
 ![Corporate Hub](../../Captures-d-ecran/Equipes-et-canaux/05-equipe-corporatehub.png)
+![Propriétaire RH](../../Captures-d-ecran/Equipes-et-canaux/06-propriétaire-hr.png)
 
 ---
 
