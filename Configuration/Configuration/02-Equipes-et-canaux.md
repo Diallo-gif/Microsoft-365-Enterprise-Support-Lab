@@ -13,8 +13,7 @@ Canaux :
 - Général
 - Documentation
 - Annonces
-![Corporate Hub](../../Captures-d-ecran/01-equipe-corporatehub.png)
-
+![Corporate Hub](../../Captures-d-ecran/Equipes-et-canaux/05-equipe-corporatehub.png)
 
 ---
 
