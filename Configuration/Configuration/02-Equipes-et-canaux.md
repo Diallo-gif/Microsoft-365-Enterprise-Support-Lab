@@ -9,11 +9,17 @@ Simuler plusieurs départements d’entreprise dans Microsoft Teams afin de repr
 # Équipes créées
 
 ## 1. Corporate Hub
+![Corporate Hub](../../Captures-d'écran/Equipes-et-canaux/01-equipe-corporatehub.png)
+
+![Canal Documentation](../../Captures-d'écran/Equipes-et-canaux/01-canal-documentation.png)
+
+![Canal Standard](../../Captures-d'écran/Equipes-et-canaux/02-canal-public-standard.png)
 
 Canaux :
 - Général
 - Documentation
 - Annonces
+  
 
 ---
 
