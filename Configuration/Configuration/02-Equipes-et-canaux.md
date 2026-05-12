@@ -15,19 +15,19 @@ Canaux :
 - Annonces
 ### Capture - Création de l’équipe
 
-![Corporate Hub](../../Captures-d'écran/Equipes-et-canaux/01-equipe-corporatehub.png)
+![Corporate Hub](../../Captures-d-ecran/Equipes-et-canaux/01-equipe-corporatehub.png)
 
 ### Capture - Canal Documentation
 
-![Canal Documentation](../../Captures-d'écran/Equipes-et-canaux/01-canal-documentation.png)
+![Canal Documentation](../../Captures-d-ecran/Equipes-et-canaux/01-canal-documentation.png)
 
 ### Capture - Canal Standard
 
-![Canal Standard](../../Captures-d'écran/Equipes-et-canaux/02-canal-public-standard.png)
+![Canal Standard](../../Captures-d-ecran/Equipes-et-canaux/02-canal-public-standard.png)
 
 ### Capture - Propriétaire RH
 
-![Propriétaire RH](../../Captures-d'écran/Equipes-et-canaux/02-propriétaire-hr.png)
+![Propriétaire RH](../../Captures-d-ecran/Equipes-et-canaux/02-propriétaire-hr.png)
   
 
 ---
