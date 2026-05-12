@@ -13,10 +13,10 @@ Canaux :
 - Général
 - Documentation
 - Annonces
-![Corporate Hub](../../Captures-d-ecran/Equipes-et-canaux/05-equipe-corporatehub.png)
-![Propriétaire RH](../../Captures-d-ecran/Equipes-et-canaux/06-propriétaire-hr.png)
-![Canal Documentation](../../Captures-d-ecran/Equipes-et-canaux/07-canal-documentation.png)
-![Canal Public Standard](../../Captures-d-ecran/Equipes-et-canaux/08-canal-public-standard.png)
+![Corporate Hub](../../Captures-d-ecran/02-Equipes-et-canaux/05-equipe-corporatehub.png)
+![Propriétaire RH](../../Captures-d-ecran/02-Equipes-et-canaux/06-propriétaire-hr.png)
+![Canal Documentation](../../Captures-d-ecran/02-Equipes-et-canaux/07-canal-documentation.png)
+![Canal Public Standard](../../Captures-d-ecran/02-Equipes-et-canaux/08-canal-public-standard.png)
 
 ---
 
