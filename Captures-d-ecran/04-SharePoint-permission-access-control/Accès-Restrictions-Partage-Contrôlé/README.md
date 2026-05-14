@@ -1,4 +1,4 @@
-# SharePoint – Accès restreint
+# SharePoint – Accès restreint/Partage contrôlé
 
 ## Objectif
 Limiter l’accès à un document sensible sans autoriser la modification, le téléchargement ou l’impression.
